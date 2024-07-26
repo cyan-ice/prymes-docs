@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PrYmes'
+copyright = '2024, Jingyang Wang'
+author = 'Jingyang Wang'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.0.1a0'
+version = '0.0.1a0'
 
 # -- General configuration
 
